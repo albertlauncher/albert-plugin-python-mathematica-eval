@@ -4,6 +4,8 @@
 
 Synopsis: <trigger> [expr]"""
 
+#  Copyright (c) 2022 Manuel Schneider
+
 import subprocess
 from tempfile import NamedTemporaryFile
 
